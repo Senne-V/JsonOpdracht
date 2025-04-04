@@ -1,5 +1,5 @@
 {
-  "Spellen": [
+  "spellen": [
     {
       "id": 1,
       "naam": "Valorant",
@@ -28,7 +28,7 @@
       "id": 5,
       "naam": "Roblox",
       "categorie": "Multi player",
-      "Rating": 6
+      "rating": 6
     },
     {
       "id": 6,
