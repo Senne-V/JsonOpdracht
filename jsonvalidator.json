@@ -1,0 +1,71 @@
+{
+  "Spellen": [
+    {
+      "id": 1,
+      "naam": "Valorant",
+      "categorie": "Shooter",
+      "rating": 9
+    },
+    {
+      "id": 2,
+      "naam": "Fortnite",
+      "categorie": "Battle royale",
+      "rating": 7
+    },
+    {
+      "id": 3,
+      "naam": "Dark souls",
+      "categorie": "Single player",
+      "rating": 9
+    },
+    {
+      "id": 4,
+      "naam": "Amongus",
+      "categorie": "Multi player",
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "naam": "Roblox",
+      "categorie": "Multi player",
+      "Rating": 6
+    },
+    {
+      "id": 6,
+      "naam": "Halo",
+      "categorie": "Shooter",
+      "rating": 7
+    },
+    {
+      "id": 7,
+      "naam": "Minecraft",
+      "categorie": "Open world",
+      "rating": 8
+    },
+    {
+      "id": 8,
+      "naam": "Terraria",
+      "categorie": "Open world",
+      "rating": 6
+    },
+    {
+      "id": 9,
+      "naam": "Portal",
+      "categorie": "Single player",
+      "rating": 6
+    },
+    {
+      "id": 10,
+      "naam": "Destiny 2",
+      "categorie": "Shooter",
+      "rating": 5
+    }
+  ],
+  "categorieën": [
+    { "naam": "Shooter" },
+    { "naam": "Battle Royale" },
+    { "naam": "Single player" },
+    { "naam": "Multi player" },
+    { "naam": "Open world" }
+  ]
+}
